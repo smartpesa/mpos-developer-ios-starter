@@ -1,0 +1,16 @@
+PODS:
+  - smartpesa (4.0.3)
+
+DEPENDENCIES:
+  - smartpesa (= 4.0.3)
+
+SPEC REPOS:
+  "https://arunk6587@bitbucket.org/smartpesa/smartpesa-ios-pods.git":
+    - smartpesa
+
+SPEC CHECKSUMS:
+  smartpesa: a5c2d5ecdf50ba908b70b9ed6ef574fad8a7a58d
+
+PODFILE CHECKSUM: a8b4fc255da1381ce8451387aa89e3cdc43f46fa
+
+COCOAPODS: 1.7.0.rc.1
